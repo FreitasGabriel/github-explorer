@@ -1,6 +1,6 @@
 import { createGlobalStyle } from 'styled-components';
 
-import githubBackground from '../asset/github.svg';
+import githubBackground from '../assets/github.svg';
 
 export default createGlobalStyle`
 
