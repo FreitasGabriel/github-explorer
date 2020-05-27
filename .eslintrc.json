@@ -38,7 +38,7 @@
             "error",
             {
                 "allowExpressions": true
-            },
+            }
         ],
         "import/extensions": [
             "error",
