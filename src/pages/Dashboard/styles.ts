@@ -62,6 +62,7 @@ export const Error = styled.span`
 
 export const Repositories = styled.div`
     margin-top: 80px;
+    max-width: 700px;
 
     a {
         background: #fff;
@@ -81,6 +82,12 @@ export const Repositories = styled.div`
 
         &:hover {
             transform: translate(10px);
+        }
+
+        img {
+            width: 64px;
+            height: 64px;
+            border-radius: 50%
         }
 
         div {
