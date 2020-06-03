@@ -2,6 +2,15 @@
 
 Github Explorer is a small project that list details of repositories from github!
 
+## :zap: Technologies Used
+
+- [Eslint] (https://eslint.org/)
+- [Prettier] (https://prettier.io/docs/en/install.html)
+- [Jest] (https://jestjs.io/)
+- [Axios] (https://github.com/axios/axios)
+- [StyledComponents] (https://styled-components.com/)
+
+
 ## Usage
 
 To run the project execute the commands:
